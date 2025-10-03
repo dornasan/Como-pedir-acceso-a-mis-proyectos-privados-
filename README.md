@@ -15,20 +15,16 @@ Si quieres acceder a ellos, aquí tienes cómo hacerlo 👇
 ---
 
 ## 🔑 Cómo pedir acceso
-1. Haz clic en **[Issues](../../issues)** de este repositorio.  
-2. Abre un **nuevo issue** con el título:  
-Solicitud de acceso a proyectos privados
-
-3. En el cuerpo del issue escribe:  
-- Tu usuario de GitHub  
-- Breve motivo por el que te interesa el acceso  
-
----
-
-## 📬 Otra forma de contacto
-Si prefieres, también puedes escribirme directamente:  
+Puedes escribirme directamente a :  
 - ✉️ Email: **dornasan@gmail.com**  
 - 💼 LinkedIn: www.linkedin.com/in/dornasan
+
+### En el titulo escribe:  
+Solicitud de  [tu nombre]  para acceder a los proyectos privados de David Orna en github.
+
+### En el cuerpo del mensaje escribe:  
+- Tu usuario de GitHub  
+- Breve motivo por el que te interesa el acceso  
 
 ---
 
