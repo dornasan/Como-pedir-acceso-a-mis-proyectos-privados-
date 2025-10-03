@@ -7,7 +7,7 @@ Si quieres acceder a ellos, aquí tienes cómo hacerlo 👇
 ---
 
 ## 📌 ¿Qué encontrarás?
-- 📊 Análisis de datos con Python  
+- 📊 Proyectos de Data Science y Data Analysis
 - 📚 Documentación técnica y proyectos de investigación  
 
 *(El código y los archivos completos están en repositorios privados, no visibles públicamente).*
