@@ -30,7 +30,7 @@ Solicitud de  [tu nombre]  para acceder a los proyectos privados de David Orna e
 
 ## ✅ Qué ocurre después
 - Revisaré tu solicitud 🕵️‍♂️  
-- Te enviaré una **invitación** al repositorio privado correspondiente  
+- Te enviaré una **invitación** a los repositorios privados correspondientes  
 - Recibirás un correo de GitHub para aceptar la invitación  
 
 ---
